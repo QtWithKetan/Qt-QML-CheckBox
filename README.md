@@ -5,8 +5,6 @@
 <a href="https://www.instagram.com/qtwithketan" target="_blank"><img src="https://github.com/QtWithKetan/Resources/blob/main/Instagram.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@qtwithketan" target="_blank"><img src="https://github.com/QtWithKetan/Resources/blob/main/Youtube.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png
-
 
 Qt C++ GUI Application Tutorial : 
 
